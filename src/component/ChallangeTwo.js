@@ -8,8 +8,8 @@ function ChallangeTwo() {
     color: "teal",
   };
   return (
-    <div>
-      <h1 style={coolStyle}>My name is {name}</h1>
+    <div style={coolStyle}>
+      <h1>My name is {name}</h1>
       <p>{`Current Date is: ${date}`}</p>
       <p>{`Current Time is: ${time}`}</p>
     </div>
