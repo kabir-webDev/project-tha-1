@@ -5,7 +5,7 @@ function ChallangeTwo() {
   const time = new Date().toLocaleTimeString();
   const name = "Kabir";
   const coolStyle = {
-    color: "teal",
+    color: "tomato",
   };
   return (
     <div style={coolStyle}>
