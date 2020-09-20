@@ -6,6 +6,7 @@ function HookChallange() {
     const somoy = new Date().toLocaleTimeString();
     setTime(somoy);
   };
+  setInterval(changeTime, 1000);
   return (
     <div>
       {" "}
