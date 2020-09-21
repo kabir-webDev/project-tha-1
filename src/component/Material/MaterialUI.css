@@ -1,0 +1,19 @@
+.container {
+  height: 100vh;
+  width: 100%;
+  background-color: rgb(149, 236, 203);
+}
+.box {
+  padding-top: 30vh;
+  background-color: teal;
+}
+.btn {
+  background-color: white !important;
+  color: tomato !important;
+  padding: 10px !important;
+  font-weight: 600 !important;
+}
+.btn:hover {
+  background-color: tomato !important;
+  color: white !important;
+}
