@@ -1,5 +1,6 @@
 import React from "react";
 import "./App.css";
+import CD from "./component/CountDown/CD";
 import Form from "./component/FormChallange/Form";
 // import ChallangeThree from "./component/ChallangeThree/ChallangeThree";
 // import HookChallange from "./component/HooksChallange/HookChallange";
@@ -11,7 +12,8 @@ function App() {
       {/* <ChallangeTwo />
       <ChallangeThree />
       <HookChallange /> */}
-      <Form />
+      {/* <Form /> */}
+      <CD />
     </div>
   );
 }
