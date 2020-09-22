@@ -10,11 +10,11 @@ import MaterialUI from "./component/Material/MaterialUI";
 function App() {
   return (
     <div className="App">
-      {/* <ChallangeTwo />
+      <ChallangeTwo />
       <ChallangeThree />
-      <HookChallange /> */}
-      {/* <Form /> */}
-      {/* <CD /> */}
+      <HookChallange />
+      <Form />
+      <CD />
       <MaterialUI />
     </div>
   );
