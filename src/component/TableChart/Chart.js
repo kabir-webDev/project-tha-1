@@ -31,7 +31,7 @@ let options = {
       {
         id: "209",
         age: 34,
-        name: "Freda Bowman",
+        name: "Freda Hoeman",
       },
       {
         id: "2dd81ef",
