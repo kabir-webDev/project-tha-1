@@ -21,6 +21,21 @@ let options = {
         label: "age",
         colSize: "50px",
       },
+      {
+        id: "id",
+        label: "id",
+        colSize: "80px",
+      },
+      {
+        id: "name",
+        label: "name",
+        colSize: "150px",
+      },
+      {
+        id: "age",
+        label: "age",
+        colSize: "50px",
+      },
     ],
     rows: [
       {
