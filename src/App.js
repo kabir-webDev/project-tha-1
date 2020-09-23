@@ -1,6 +1,8 @@
-import { Input } from "@material-ui/core";
+import { Input, Table } from "@material-ui/core";
 import React from "react";
 import "./App.css";
+import Chart from "./component/TableChart/Chart";
+import Table from "./component/TableChart/Table";
 // import CD from "./component/CountDown/CD";
 // import Form from "./component/FormChallange/Form";
 // import MaterialUI from "./component/Material/MaterialUI";
@@ -17,9 +19,11 @@ function App() {
       <HookChallange />
       <Form />
       <CD />
-      <MaterialUI /> */}
+      <MaterialUI />
       <Todo />
-      <Input />
+      <Input /> */}
+      <Chart />
+      <Table />
     </div>
   );
 }
