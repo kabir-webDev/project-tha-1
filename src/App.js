@@ -2,7 +2,7 @@ import { Input, Table } from "@material-ui/core";
 import React from "react";
 import "./App.css";
 import Chart from "./component/TableChart/Chart";
-import Table from "./component/TableChart/Table";
+// import Table from "./component/TableChart/Table";
 // import CD from "./component/CountDown/CD";
 // import Form from "./component/FormChallange/Form";
 // import MaterialUI from "./component/Material/MaterialUI";
@@ -23,7 +23,7 @@ function App() {
       <Todo />
       <Input /> */}
       <Chart />
-      <Table />
+      {/* <Table /> */}
     </div>
   );
 }
